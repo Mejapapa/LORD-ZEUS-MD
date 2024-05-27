@@ -1,0 +1,38 @@
+{
+  "name": "LORD ZEUS-MD",
+  "website": "https://github.com/khalid-official",
+  "description": "✨ SIMPLE AND MOST COMPLICATED WHAT'SAPP BOT✨ (≧▽≦)",
+  "repository": "https://github.com/khalid-official/LORD ZEUS-MD",
+  "logo": "https://raw.githubusercontent.com/khalid-official/BUMBLEBEE-BOT/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/Khalid-official/LORD ZEUS-MD",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "themysticbot",
+    "themystic-bot",
+    "themystic-bot-md"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}
