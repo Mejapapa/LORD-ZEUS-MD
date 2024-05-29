@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Khalid-official",
+  "homepage": "https://github.com/Jayden-official",
   "author": {
-    "name": "KhalidOffical"
+    "name": "JaydenOffical"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Khalid-official"
+    "url": "https://github.com/Jayden-official"
   },
   "bugs": {
-    "url": "https://github.com/Khalid-official"
+    "url": "https://github.com/Jayden-official"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
