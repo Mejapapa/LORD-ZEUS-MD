@@ -31,302 +31,205 @@ const handler = async (m, {conn, usedPrefix}) => {
 └───────────
 
 ┌─⭓ *'🕞QUICK-TEST MENU🕞'* ⭓──
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix}       
-┊➤🕞 l${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
-┊➤🕞 ${usedPrefix} 
+┊➤🕞 ${usedPrefix} *ping*
+┊➤🕞 ${usedPrefix}  *runtime*     
+┊➤🕞 l${usedPrefix} *afk*
+┊➤🕞 ${usedPrefix} *delcmd*
+┊➤🕞 ${usedPrefix} *speedtest*
+┊
 └───────⭓
 
 ┌─⭓ *🎉FUN MENU🎉* ⭓──
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-┊➤🎉 ${usedPrefix} 
-└───────⭓
-
-┌─⭓ *⏳CONVERTER MENU⏳* ⭓──
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
-┊➤⏳ ${usedPrefix} 
+┊➤🎉 ${usedPrefix} *gay*
+┊➤🎉 ${usedPrefix} *trash*
+┊➤🎉 ${usedPrefix} *kill*
+┊➤🎉 ${usedPrefix} *pat*
+┊➤🎉 ${usedPrefix} *slap*
+┊➤🎉 ${usedPrefix} *ship*
+┊➤🎉 ${usedPrefix} *kiss*
+┊➤🎉 ${usedPrefix} *tomp3*
+┊➤🎉 ${usedPrefix} *toav*
+┊➤🎉 ${usedPrefix} *txt*
+┊➤🎉 ${usedPrefix} *waifu*
+┊
 └───────⭓
 
 ┌─⭓ *🎮GAME MENU🎮* ⭓──
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
-┊➤🎮 ${usedPrefix} 
+┊➤🎮 ${usedPrefix} *mates*
+┊➤🎮 ${usedPrefix} *dado*
+┊➤🎮 ${usedPrefix} *ppt*
+┊➤🎮 ${usedPrefix} *slot*
+┊
 └───────⭓
 ════ •⊰❂⊱• ════
 ┌──⭓ *📥 DOWNLOAD MENU📥* ⭓──
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
-┊➤📥 ${usedPrefix} 
+┊➤📥 ${usedPrefix}*facebook*
+┊➤📥 ${usedPrefix}*gdrive*
+┊➤📥 ${usedPrefix}*gitclone*
+┊➤📥 ${usedPrefix}*igstalk*
+┊➤📥 ${usedPrefix}*igstory*
+┊➤📥 ${usedPrefix}*ig*
+┊➤📥 ${usedPrefix} *mediafire*
+┊➤📥 ${usedPrefix}*play*
+┊➤📥 ${usedPrefix} *tiktok*
+┊➤📥 ${usedPrefix} *tstalk*
+┊➤📥 ${usedPrefix} *twitter*
+┊➤📥 ${usedPrefix} *ytmp4doc*
+┊➤📥 ${usedPrefix} *ytsearch*
+┊
 └───────⭓
 
 ┌─⭓ *👑OWNER MENU👑* ⭓──
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
-┊➤👑 ${usedPrefix} 
+┊➤👑 ${usedPrefix} *owner sf*
+┊➤👑 ${usedPrefix} *owner df*
+┊➤👑 ${usedPrefix} *addprem*
+┊➤👑 ${usedPrefix} *chatoff*
+┊➤👑 ${usedPrefix} *banlist*
+┊➤👑 ${usedPrefix} *ban*
+┊➤👑 ${usedPrefix} *blocklist*
+┊➤👑 ${usedPrefix} *broadcast*
+┊➤👑 ${usedPrefix} *checkexpired*
+┊➤👑 ${usedPrefix} *cleartmp*
+┊➤👑 ${usedPrefix} *delprem*
+┊➤👑 ${usedPrefix} *getdb*
+┊➤👑 ${usedPrefix} *getplugin*
+┊➤👑 ${usedPrefix} *join*
+┊➤👑 ${usedPrefix} *invite*
+┊➤👑 ${usedPrefix} *resetuser*
+┊➤👑 ${usedPrefix} *restart*
+┊➤👑 ${usedPrefix} *unbanchat*
+┊➤👑 ${usedPrefix} *unban*
+┊➤👑 ${usedPrefix} *update*
+┊
 └───────⭓
 ════ •⊰❂⊱• ════
 ┌─⭓ *💎GROUP MENU💎* ⭓──
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
-┊➤💎 ${usedPrefix} 
+┊➤💎 ${usedPrefix} *add*
+┊➤💎 ${usedPrefix} *del*
+┊➤💎 ${usedPrefix} *delwarn*
+┊➤💎 ${usedPrefix} *demote*
+┊➤💎 ${usedPrefix} *infogrupo*
+┊➤💎 ${usedPrefix} *hidetag*
+┊➤💎 ${usedPrefix} *kick*
+┊➤💎 ${usedPrefix} *linkgroup*
+┊➤💎 ${usedPrefix} *promote*
+┊➤💎 ${usedPrefix} *rules*
+┊➤💎 ${usedPrefix} *setbye*
+┊➤💎 ${usedPrefix} *group*
+┊➤💎 ${usedPrefix} *setwelcome*
+┊➤💎 ${usedPrefix} *staffs*
+┊➤💎 ${usedPrefix} *totag*
+┊➤💎 ${usedPrefix} *warn*
+┊➤💎 ${usedPrefix} *warns*
+┊
 └───────⭓
 
 ┌─⭓ *🔍SEARCH MENU🔍* ⭓──
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤🔍 ${usedPrefix} 
-┊➤ 🔍${usedPrefix} 
+┊➤🔍 ${usedPrefix} *video*
+┊➤🔍 ${usedPrefix} *img*
+┊➤🔍 ${usedPrefix} *image*
+┊➤🔍 ${usedPrefix} *gimage*
+┊➤🔍 ${usedPrefix} *meme*
+┊➤🔍 ${usedPrefix} *pinterest* 
+┊➤🔍 ${usedPrefix} *wallpaper*
+┊
 └───────⭓
  ════ •⊰❂⊱• ════ 
 ┌─⭓ *🌈 STICKER MENU🌈* ⭓──
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
-┊➤🌈 ${usedPrefix} 
+┊➤🌈 ${usedPrefix} *attp*
+┊➤🌈 ${usedPrefix} *emojimix*
+┊➤🌈 ${usedPrefix} *getsticker*
+┊➤🌈 ${usedPrefix} *stickersearch*
+┊➤🌈 ${usedPrefix} *stickmaker*
+┊➤🌈 ${usedPrefix} *stickermaker*
+┊➤🌈 ${usedPrefix} *smaker*
+┊➤🌈 ${usedPrefix} *sticker*
+┊➤🌈 ${usedPrefix} *telestick*
+┊➤🌈 ${usedPrefix} *telesticker*
+┊➤🌈 ${usedPrefix} *toimg*
+┊➤🌈 ${usedPrefix} *jpg*
+┊➤🌈 ${usedPrefix} *mp4*
+┊➤🌈 ${usedPrefix} *ttp*
+┊➤🌈 ${usedPrefix} *ttps2*
+┊➤🌈 ${usedPrefix} *take*
+┊
 └───────⭓
 
  ════ •⊰❂⊱• ════ 
 
 ┌─⭓ *💵RPG MENU💵* ⭓──
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
-┊➤💵 ${usedPrefix} 
+┊➤💵 ${usedPrefix} *register*
+┊➤💵 ${usedPrefix} *verify*
+┊➤💵 ${usedPrefix} *mysn*
+┊➤💵 ${usedPrefix} *unreg*
+┊
 └───────⭓
 
 ════ •⊰❂⊱• ════ 
 
 ┌─⭓ *🛠️TOOL MENU🛠️* ⭓──
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
-┊➤🛠️ ${usedPrefix} 
+┊➤🛠️ ${usedPrefix} *calc*
+┊➤🛠️ ${usedPrefix} *fake*
+┊➤🛠️ ${usedPrefix} *fetch*
+┊➤🛠️ ${usedPrefix} *google*
+┊➤🛠️ ${usedPrefix} *lyrics*
+┊➤🛠️ ${usedPrefix} *chatgpt*
+┊➤🛠️ ${usedPrefix} *readmore*
+┊➤🛠️ ${usedPrefix} *read*
+┊➤🛠️ ${usedPrefix} *sc*
+┊➤🛠️ ${usedPrefix} *ss*
+┊➤🛠️ ${usedPrefix} *upload*
+┊➤🛠️ ${usedPrefix} *translate*
+┊➤🛠️ ${usedPrefix} *tts*
+┊➤🛠️ ${usedPrefix} *wiki*
+┊
 └───────⭓
 
-┌─⭓ *♦️MAKER MENU♦️* ⭓──
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
-┊➤♦️ ${usedPrefix} 
+┌─⭓ *♦️LOGO MENU♦️* ⭓──
+┊➤♦️ ${usedPrefix} *logololi*
+┊➤♦️ ${usedPrefix} *3dbox*
+┊➤♦️ ${usedPrefix} *graffiti2*
+┊➤♦️ ${usedPrefix} *future*
+┊➤♦️ ${usedPrefix} *ninja*
+┊➤♦️ ${usedPrefix} *neon*
+┊➤♦️ ${usedPrefix} *marvel*
+┊➤♦️ ${usedPrefix} *bpink*
+┊➤♦️ ${usedPrefix} *glitch*
+┊➤♦️ ${usedPrefix} *thunder*
+┊➤♦️ ${usedPrefix} *paper*
+┊➤♦️ ${usedPrefix} *wolf*
+┊➤♦️ ${usedPrefix} *matrix*
+┊➤♦️ ${usedPrefix} *ballon*
+┊➤♦️ ${usedPrefix} *glow*
+┊➤♦️ ${usedPrefix} *joker*
 └───────⭓
 
 ┌─⭓ *🧬ACTIVATE/DIACTIVATE MENU🧬'* ⭓──
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
-┊➤🧬 ${usedPrefix} 
+┊➤🧡 _${usedPrefix}𝗲𝗻𝗮𝗯𝗹𝗲 *welcome*_
+┊➤🧡 _${usedPrefix}𝗱𝗶𝘀𝗮𝗯𝗹𝗲 *welcome*_
+┊➤🧡 _${usedPrefix}*enable* *modohorny*_
+┊➤🧡 _${usedPrefix}*disable* *modohorny*_
+┊➤🧡 _${usedPrefix}*enable* *antilink*_
+┊➤🧡 _${usedPrefix}disable* *antilink*_
+┊➤🧡 _${usedPrefix}*enable *antilink2*_
+┊➤🧡 _${usedPrefix}*disable* *antilink2*_
+┊➤🧡 _${usedPrefix}*enable* *detect*_
+┊➤🧡 _${usedPrefix}disable* *detect*_
+┊➤🧡 _${usedPrefix}*enable *audios*_
+┊➤🧡 _${usedPrefix}*disable* *audios*_
+┊➤🧡 _${usedPrefix}*enable* *autosticker*_
+┊➤🧡 _${usedPrefix}*disable* *autosticker*_
+┊➤🧡 _${usedPrefix}*enable* *antiviewonce*_
+┊➤🧡 _${usedPrefix}*disable* *antiviewonce*_
+┊➤🧡 _${usedPrefix}*enable* *antitoxic*_
+┊➤🧡 _${usedPrefix}*disable* *antitoxic*_
+┊➤🧡 _${usedPrefix}*enable* *antitraba*_
+┊➤🧡 _${usedPrefix}*disable* *antitraba*_
+┊➤🧡 _${usedPrefix}*enable* *antiarabes*_
+┊➤🧡 _${usedPrefix}*disable* *antiarabes*_
+┊➤🧡 _${usedPrefix}*enable* *modoadmin*_
+┊➤🧡 _${usedPrefix}*disable* *modoadmin*_
 └───────⭓
-┌─⭓ *🏷️NSFW MENU🏷️* ⭓──
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-┊➤🏷️ ${usedPrefix} 
-└───────⭓
-
-
 `.trim();
   conn.sendFile(m.chat, grup, 'errop.jpg', text, m, false );
 };
