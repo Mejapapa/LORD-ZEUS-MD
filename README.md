@@ -9,7 +9,7 @@
 
 ***
 ### **INFOMATION**
-- Change the creds.json with yours in [creds.json](https://github.com/Lordzeusmd/LORD-ZEUS-MD/edit/main/ZeusSession/creds.json)
+- Change the creds.json with yours in [creds.json](https://github.com/jayden-official/LORD-ZEUS-MD/edit/main/ZeusSession/creds.json)
 
 #### **DEPLOY TO HEROKU**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lordzeusmd/LORD-ZEUS-MD/tree/main)
